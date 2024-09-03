@@ -1,1 +1,1 @@
-# Bingo-2.0
+# A Fun Game of Bingo to play online.
